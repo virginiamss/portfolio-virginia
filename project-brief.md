@@ -67,21 +67,22 @@ Estética moderna inspirada en interfaces futuristas y diseño digital. Utiliza 
 
 **Para Títulos/Headings:**
 
-- Fuente: [Nombre de Google Font]
-- Peso: [ej. 700 Bold]
+- Fuente: Space grotesk
+- Peso: ej. 700 Bold
 - Uso: h1, h2, h3, hero title
 
 **Para Texto/Body:**
 
-- Fuente: [Nombre de Google Font]
-- Peso: [ej. 400 Regular, 600 Semibold]
+- Fuente: inter
+- Peso: 400 Regular, 600 Semibold
 - Uso: párrafos, descripciones, labels
 
 **URLs de Google Fonts:**
 
-```
-[Pega aquí los enlaces completos de Google Fonts]
-```
+````
+https://fonts.google.com/specimen/Space+Grotesk?preview.script=Latn```
+
+https://fonts.google.com/?query=inter&preview.script=Latn
 
 ---
 
@@ -91,17 +92,21 @@ Estética moderna inspirada en interfaces futuristas y diseño digital. Utiliza 
 
 **Bio Corta (2-3 párrafos):**
 
-<!-- Pega tu bio aquí -->
+Esta plantilla de portfolio scrollytelling ha sido diseñada para creativos, diseñadores y estudiantes que buscan mostrar su trabajo de forma visual, moderna y profesional.
+
+La estructura combina narrativa visual, animaciones suaves y una experiencia de navegación dinámica basada en el scroll. Cada sección está pensada para adaptarse fácilmente a distintos perfiles, permitiendo sustituir textos, imágenes y proyectos de ejemplo por contenido propio sin necesidad de crear una web desde cero.
+
+Su diseño oscuro con detalles neón busca destacar el contenido y ofrecer una experiencia atractiva tanto en escritorio como en dispositivos móviles.
 
 **Artist Statement (opcional, 1 párrafo):**
 
-<!-- Tu declaración artística -->
+Esta plantilla nace con el objetivo de facilitar la creación de portfolios digitales impactantes, combinando diseño contemporáneo, accesibilidad y facilidad de personalización.
 
 **Lema/Tagline para Hero:**
 
 <!-- 1 frase impactante que te define -->
 
-_Ejemplo: "Creando narrativas visuales que conectan emociones"_
+"Diseñado para destacar tu trabajo. Preparado para contar tu historia."
 
 ---
 
@@ -109,14 +114,14 @@ _Ejemplo: "Creando narrativas visuales que conectan emociones"_
 
 Para la sección "About" (Statistics Display):
 
-1. **[Número]+ [Label]**  
-   _Ejemplo: 3+ Años de Experiencia_
+1. **100% personalizable**
+   _Diseñada para adaptarse a cualquier perfil creativo_
 
-2. **[Número]+ [Label]**  
-   _Ejemplo: 50+ Proyectos Completados_
+2. **6+ secciones interactivas**
+   _Incluye hero, about, work, process, skills y galería_
 
-3. **[Número]+ [Label]**  
-   _Ejemplo: 10+ Clientes Satisfechos_
+3. **Responsive Design**
+   _Optimizada para móviles, tablets y escritorio_
 
 ---
 
@@ -126,18 +131,18 @@ Para la sección "My Work" (3 cards):
 
 #### Especialidad 1
 
-- **Título:** [ej. Ilustración Editorial]
-- **Descripción (1-2 frases):** [Qué haces en esta área]
+- **Portfolio Design**
+- **Creación de portfolios visuales que permiten presentar proyectos de forma clara, atractiva y profesional**
 
 #### Especialidad 2
 
-- **Título:** [ej. Branding & Identidad]
-- **Descripción:** [...]
+- **UI & UX Design**
+- **Diseño de interfaces modernas centradas en la experiencia del usuario, priorizando la navegación intuitiva y la accesibilidad**
 
 #### Especialidad 3
 
-- **Título:** [ej. Arte Digital]
-- **Descripción:** [...]
+- **Scrollytelling**
+- **Desarrollo de experiencias narrativas basadas en el scroll para presentar información de forma dinámica e inmersiva**
 
 ---
 
@@ -147,18 +152,18 @@ Para la sección Timeline (3 pasos):
 
 #### Paso 1
 
-- **Título:** [ej. Investigación y Concepto]
-- **Descripción:** [Qué haces en esta fase]
+- **Investigación y estrategia**
+- **Se analizan referencias visuales, tendencias de diseño y necesidades del usuario para definir una estructura clara y atractiva**
 
 #### Paso 2
 
-- **Título:** [ej. Bocetos y Exploración]
-- **Descripción:** [...]
+- **Diseño y personalización**
+- **Se desarrolla la identidad visual mediante colores, tipografías y componentes adaptables que permiten personalizar fácilmente el portfolio**
 
 #### Paso 3
 
-- **Título:** [ej. Refinamiento y Entrega]
-- **Descripción:** [...]
+- **Desarrollo y optimización**
+- **Se implementa la experiencia interactiva, se optimiza el rendimiento y se garantiza una navegación responsive y accesible en cualquier dispositivo**
 
 ---
 
@@ -168,24 +173,24 @@ Para la sección Skills (3 cards):
 
 **Card 1 - Herramientas Digitales:**
 
-- [Herramienta 1]
-- [Herramienta 2]
-- [Herramienta 3]
-- [Herramienta 4]
+- [Adobe photoshop]
+- [Adobe Illustrator]
+- [Figma]
+- [Procreate]
 
 **Card 2 - Técnicas Tradicionales:**
 
-- [Técnica 1]
-- [Técnica 2]
-- [Técnica 3]
-- [Técnica 4]
+- [Ilustración digital]
+- [Diseño editorial]
+- [Branding]
+- [Dirección de arte]
 
 **Card 3 - Especialidades:**
 
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- [Skill 4]
+- [creatividad]
+- [Resolución de problemas]
+- [Trabajo en equipo]
+- [Adaptabilidad]
 
 ---
 
@@ -194,18 +199,34 @@ Para la sección Skills (3 cards):
 ### Proyecto 1
 
 - **Imagen ImageKit:** [URL completa]
-- **Título:** [Nombre del proyecto]
-- **Descripción:** [1 frase]
-- **Categoría:** [Editorial/Digital/Branding/etc]
-- **Alt Text:** [Descripción accesible para screen readers]
+- **Título:** [Neon Identity]
+- **Descripción:** [Sistema de identidad visual para una marca de cerveza ficticia]
+- **Categoría:** [Branding]
+- **Alt Text:** [Logotipo minimalista con detalles neón sobre fondo oscuro]
 
 ### Proyecto 2
 
-[Repetir estructura]
+- **Imagen ImageKit:** [URL completa]
+- **Título:** [Aurora interface]
+- **Descripción:** [Diseño conceptual de una interfaz futurista para una aplicación móvil ficticia]
+- **Categoría:** [UI Design]
+- **Alt Text:** [Pantalla de aplicación móvil con estética oscura y acentos azules]
 
 ### Proyecto 3
 
-[Repetir estructura]
+- **Imagen ImageKit:** [URL completa]
+- **Título:** [Pulse Studio]
+- **Descripción:** [Diseño conceptual de la presencia digital de una agencia creativa ficticia especializada en diseño, contenido y experiencias digitales]
+- **Categoría:** [Web design]
+- **Alt Text:** [Espacio de trabajo creativo con ordenador, iluminación neón roja y equipamiento digital moderno]
+
+### Proyecto 4
+
+- **Imagen ImageKit:** [URL completa]
+- **Título:** [Pulse Studio]
+- **Descripción:** [Diseño conceptual de la presencia digital de una agencia creativa ficticia especializada en diseño, contenido y experiencias digitales]
+- **Categoría:** [Web design]
+- **Alt Text:** [Espacio de trabajo creativo con ordenador, iluminación neón roja y equipamiento digital moderno]
 
 <!-- Añadir mínimo 6 proyectos -->
 
@@ -306,3 +327,4 @@ _Ejemplo: "¿Tienes un proyecto en mente? Me encantaría colaborar contigo."_
 ---
 
 _Este brief es tu fuente de verdad para los prompts IA. Mantén este archivo actualizado y referéncialo en cada prompt con: "Ver contenidos preparados en project-brief.md"_
+````
