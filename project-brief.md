@@ -49,17 +49,17 @@ Estética moderna inspirada en interfaces futuristas y diseño digital. Utiliza 
 
 ### Paleta de Colores
 
-**Color Primario:** `#[hex]` - [Nombre/uso]  
-**Color Secundario:** `#[hex]` - [Nombre/uso]  
-**Acento 1:** `#[hex]` - [Para qué secciones]  
-**Acento 2:** `#[hex]` - [Para qué elementos]  
-**Acento 3:** `#[hex]` - [Contexto de uso]
+**Color Primario:** `#FF70E0` - Rosa neón para botones, enlaces y llamadas a la acción
+**Color Secundario:** `#FF9CEA` - Rosa claro para degradados y efectos hover
+**Acento 1:** `#D946EF` - Títulos destacados y elementos interactivos
+**Acento 2:** `#FFFFFF` - Texto principal y elementos de alto contraste
+**Acento 3:** `#1A1A1A` - Tarjetas, contenedores y fondos secundarios
 
 **Verificación de contraste:**
 
-- [ ] Texto sobre fondo cumple WCAG AA (4.5:1)
-- [ ] UI elements cumplen 3:1
-- [ ] Probado con WebAIM Contrast Checker
+- [x] Texto sobre fondo cumple WCAG AA (4.5:1)
+- [x] UI elements cumplen 3:1
+- [x] Probado con WebAIM Contrast Checker (8.64:1)
 
 ---
 
