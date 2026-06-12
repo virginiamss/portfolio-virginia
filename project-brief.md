@@ -210,51 +210,66 @@ Para la sección Skills (3 cards):
 - **Título:** [Aurora interface]
 - **Descripción:** [Diseño conceptual de una interfaz futurista para una aplicación móvil ficticia]
 - **Categoría:** [UI Design]
-- **Alt Text:** [Pantalla de aplicación móvil con estética oscura y acentos azules]
+- **Alt Text:** [Pantalla de aplicación móvil con estética oscura y acentos rosas]
 
 ### Proyecto 3
 
 - **Imagen ImageKit:** [URL completa]
-- **Título:** [Pulse Studio]
-- **Descripción:** [Diseño conceptual de la presencia digital de una agencia creativa ficticia especializada en diseño, contenido y experiencias digitales]
-- **Categoría:** [Web design]
-- **Alt Text:** [Espacio de trabajo creativo con ordenador, iluminación neón roja y equipamiento digital moderno]
+- **Título:** [Neon District]
+- **Descripción:** [Concepto de branding para un restaurante asiático de estilo urbano inspirado en la iluminación neón y la cultura nocturna japonesa]
+- **Categoría:** [Branding]
+- **Alt Text:** [Interior de restaurante moderno con carteles luminosos neón y señalética inspirada en entornos urbanos asiáticos]
 
 ### Proyecto 4
 
 - **Imagen ImageKit:** [URL completa]
-- **Título:** [Pulse Studio]
-- **Descripción:** [Diseño conceptual de la presencia digital de una agencia creativa ficticia especializada en diseño, contenido y experiencias digitales]
-- **Categoría:** [Web design]
-- **Alt Text:** [Espacio de trabajo creativo con ordenador, iluminación neón roja y equipamiento digital moderno]
+- **Título:** [Future motion]
+- **Descripción:** [Serie de gráficos promocionales para redes sociales]
+- **Categoría:** [Digital Design]
+- **Alt Text:** [Composición visual moderna con elementos geométricos y colores vibrantes]
 
+### Proyecto 5
+
+- **Imagen ImageKit:** [URL completa]
+- **Título:** [Digital horizon]
+- **Descripción:** [Lanfing page experimental inspirada en tendencias de diseño futurista]
+- **Categoría:** [Web Design]
+- **Alt Text:** [Diseño web moderno con efectos luminosos y tipografía geométrica]
+
+### Proyecto 6
+
+- **Imagen ImageKit:** [URL completa]
+- **Título:** [Nova Audio]
+- **Descripción:** [Identidad visual para una marca conceptual ficticia de auriculares inalámbricos de alta gama]
+- **Categoría:** [Branding]
+- **Alt Text:** [Auriculares inalámbricos con diseño futurista sobre fondo oscuro y detalles en rosa y azul neón]
 <!-- Añadir mínimo 6 proyectos -->
 
 **Optimización ImageKit:**
 
 - [ ] URLs con transformaciones: `tr:w-400,h-300,q-80,f-auto`
 - [ ] Imágenes full-size para lightbox: `tr:w-1200`
-- [ ] Alt text descriptivo en todos
+- [x] Alt text descriptivo en todos
 
 ---
 
 ## 📞 Información de Contacto
 
-**Email:** [tu@email.com]
+**Email:** [contact@portfolio-template.com]
 
 **Redes Sociales:**
 
-- Instagram: [URL]
-- Behance: [URL]
-- LinkedIn: [URL]
-- Twitter/X: [URL] (opcional)
-- Otras: [URL]
+- Instagram: [https://instagram.com/example]
+- Behance: [https://behance.net/example]
+- LinkedIn: [https://linkedin.com/in/example]
+- Twitter/X: [https://x.com/example] (opcional)
+- Otras: [https://dribbble.com/example]
 
 **CTA Final:**
 
 <!-- Mensaje para la sección Final CTA -->
 
-_Ejemplo: "¿Tienes un proyecto en mente? Me encantaría colaborar contigo."_
+_¿Listo para mostrar tu trabajo al mundo? Personaliza esta plantilla y convierte tu portfolio en una experiencia visual memorable_
 
 ---
 
@@ -310,18 +325,24 @@ _Ejemplo: "¿Tienes un proyecto en mente? Me encantaría colaborar contigo."_
 
 ### ¿Qué te emociona más de este portfolio?
 
+La posibilidad de crear una plantilla visualmente atractiva y adaptable que pueda ser utilizada por diferentes perfiles creativos. Me interesa especialmente combinar una estética moderna inspirada en el diseño neón con una experiencia de navegación inmersiva basada en scrollytelling.
+
 ### ¿Qué desafíos anticipas?
 
+La integración de todos los componentes interactivos manteniendo una buena experiencia de usuario, así como la optimización de imágenes, accesibilidad y rendimiento sin perder calidad visual.
+
 ### ¿Cómo conecta con tus objetivos profesionales?
+
+Este proyecto me permite profundizar en el diseño de experiencias digitales, la creación de interfaces visuales y el desarrollo de portfolios profesionales, habilidades relevantes para futuros proyectos de diseño web y comunicación visual.
 
 ---
 
 ## 📅 Historial de Actualizaciones
 
-- **[Fecha]:** Creación inicial del brief
-- **[Fecha]:** Definida paleta de colores y tipografías
-- **[Fecha]:** Contenidos preparados (bio, stats, especialidades)
-- **[Fecha]:** Proyectos para galería organizados
+- **[12/06]:** Creación inicial del brief
+- **[12/06]:** Definida paleta de colores y tipografías
+- **[12/06]:** Contenidos preparados (bio, stats, especialidades)
+- **[12/06]:** Proyectos para galería organizados
 - **[Fecha]:** Portfolio lanzado
 
 ---
